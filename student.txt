@@ -15,3 +15,9 @@ Name: Sara Khan
 CMS-ID: 3098-2024
 Program: BS(DFCS)
 Semester: 8
+
+Student 4
+Name: Ahmed Khan
+CMS-ID: 4512-2024
+Program: BS(DFCS)
+Semester: 8
